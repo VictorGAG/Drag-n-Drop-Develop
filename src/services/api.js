@@ -8,31 +8,31 @@ export function loadLists() {
             id: 1,
             content: 'Estudar módulo 01 de NodeJS',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           },
           {
             id: 2,
-            content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
+            content: 'Recriar o pipefy para estudar drag in drop',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           },
           {
             id: 3,
             content: 'Estudar módulo 03 de React Native',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           },
           {
             id: 4,
-            content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+            content: 'Subir o codigo para o github',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           },
           {
             id: 5,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'fazer testes de deploy ReactJS',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           },
         ]
       },
@@ -42,9 +42,9 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Recriando clone do Pipefy',
-            labels: [''],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            content: 'Terminar estudos modulo 04',
+            labels: ['#54e1f7'],
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           }
         ]
       },
@@ -54,20 +54,21 @@ export function loadLists() {
         cards: [
           {
             id: 7,
-            content: 'Gravar sobre Geolocalização e mapas com React Native',
+            content: 'Estudar Geolocalização e mapas com React Native',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           },
           {
             id: 8,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Deixar o site drag in drop mais bonito',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           },
           {
             id: 9,
             content: 'Ajustes na biblioteca unform',
-            labels: [''],
+            labels: ['#7159c1'],
+            user: 'https://www.nicepng.com/png/full/138-1384773_emoji-clipart-cactus-cacto-png.png'
           }
         ]
       },
@@ -78,17 +79,17 @@ export function loadLists() {
         cards: [
           {
             id: 10,
-            content: 'Gravar aula sobre deploy e CI com React Native',
-            labels: [''],
+            content: 'Fazer base do site drag in drop',
+            labels: ['#7159c1'],
           },
           {
             id: 12,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Configurar api',
             labels: ['#54e1f7'],
           },
           {
             id: 13,
-            content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+            content: 'Terminar de maratonar netflix',
             labels: ['#7159c1'],
           }
         ]
